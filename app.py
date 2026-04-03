@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import openpyxl
 import tempfile
 import os
 import shutil
